@@ -24,4 +24,4 @@ build.sh
 unpackage
 project.config.json
 .hbuilderx
-/config/app.js
+
